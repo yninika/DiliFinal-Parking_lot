@@ -1,8 +1,4 @@
 # Author: James Ryan Cagas (module: ticket)
-"""
-
-from shared_contracts import ISlot, IVehicle, ParkingLotError
-
 
 class ParkingSlot(ISlot):
     """
